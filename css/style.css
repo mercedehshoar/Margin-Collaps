@@ -1,0 +1,13 @@
+/* margin top is grater than margin bottom so margin top only applies */
+div {
+    width: 5rem;
+    height: 5rem;
+    background-color: blueviolet;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    
+}
+section {
+    background-color: #4444;
+}
